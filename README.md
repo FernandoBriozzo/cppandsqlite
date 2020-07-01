@@ -1,5 +1,6 @@
 # cppandsqlite
-A C++ application using SQLite to make simple CRUD operations
+A C++ application using SQLite to make simple CRUD operations.<br>
+You can create, update and delete cities, list all cities and cities by province.
 
 Tools used:
 
